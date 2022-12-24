@@ -6,13 +6,13 @@ An implementation of Asabeneh 30daysJavaScript with JAVASCRIPT
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/DOM_miniproject2_3.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/DOM_miniproject3_2.git
 
 # Tech/framework used
 JAVASCRIPT
 
 # Demo
-[preview]()
+[preview](https://rad-souffle-6de866.netlify.app)
 
 # Contact
 If you want to contact me, you can reach me at
